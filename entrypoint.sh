@@ -6,8 +6,8 @@ UUID=${UUID:-'8bfcd53a-ca52-4c21-8397-5e39b12cf41a'}
 
 # 其他Paas保活
 PAAS1_URL=https://test0418.onrender.com
-PAAS2_URL=
-PAAS3_URL=
+PAAS2_URL=https://app-jhghgdf.cloud.okteto.net
+PAAS3_URL=https://jr3rdn-3000.csb.app
 PAAS4_URL=
 PAAS5_URL=https://battle-tough-marquess.glitch.me
 PAAS6_URL=
