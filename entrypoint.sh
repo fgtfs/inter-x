@@ -10,7 +10,7 @@ PAAS2_URL=https://app-jhghgdf.cloud.okteto.net
 PAAS3_URL=https://jr3rdn-3000.csb.app
 PAAS4_URL=https://test00608-e8tbm5jh.b4a.run
 PAAS5_URL=https://battle-tough-marquess.glitch.me
-PAAS6_URL=
+PAAS6_URL=https://test0801-l-ea21b6e952ba97814bf.apps.cfa.devcloud.intel.com
 
 # koyeb账号保活
 KOYEB_ACCOUNT=
