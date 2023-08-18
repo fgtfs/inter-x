@@ -2,7 +2,7 @@
 
 # 设置各变量
 WSPATH=${WSPATH:-'argo'}
-UUID=${UUID:-'8bfcd53a-ca52-4c21-8397-5e39b12cf41a'}
+UUID=${UUID:-'a966d05a-289c-4774-aef3-43fa01b4d8e9'}
 
 # 其他Paas保活
 PAAS1_URL=https://ceshi0712.onrender.com
